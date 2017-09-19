@@ -1,0 +1,7 @@
+tests\HomeTests.class
+pageobjects\HomeObjects.class
+tests\JanuaryTests.class
+pageobjects\Config.class
+pageobjects\BaseObjects.class
+pageobjects\JanuaryObjects.class
+tests\BaseTests.class

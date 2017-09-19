@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Regression Suite]">
+  <test name="Tests(failed)">
+    <classes>
+      <class name="tests.JanuaryTests">
+        <methods>
+          <include name="TC_0102_imageForShoeListPopulatingSuccessfully"/>
+          <include name="TC_0101_shoeListIsPopulatingSuccessfully"/>
+          <include name="setup"/>
+          <include name="TC_0103_blurbForShoeListDisplayedSuccessfully"/>
+          <include name="TC_0104_priceForShoeListDisplayedSuccessfully"/>
+        </methods>
+      </class> <!-- tests.JanuaryTests -->
+      <class name="tests.HomeTests">
+        <methods>
+          <include name="TC_0201_verifyInvalidEmailAddress"/>
+          <include name="TC_0201_verifyValidEmailAddress"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.HomeTests -->
+    </classes>
+  </test> <!-- Tests(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

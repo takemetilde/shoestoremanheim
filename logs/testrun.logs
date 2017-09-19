@@ -1,0 +1,15 @@
+00:37:59.158 INFO  BaseTests:89 - Setting WebDriver to: C:\Users\Win7Prof\Documents\GitHub\shoestoremanheim/drivers/chromedriver_win32.exe
+00:38:01.818 INFO  BaseObjects:79 - Getting page: http://shoestore-manheim.rhcloud.com/
+00:38:02.187 INFO  BaseTests:89 - Setting WebDriver to: C:\Users\Win7Prof\Documents\GitHub\shoestoremanheim/drivers/chromedriver_win32.exe
+00:38:04.046 INFO  BaseObjects:109 - Typing: abc123@qwerty.com into: By.id: remind_email_input
+00:38:04.156 INFO  BaseObjects:119 - Submitting: By.id: remind_email_input
+00:38:04.415 INFO  BaseObjects:153 - Looking for: By.id: flash
+00:38:04.445 INFO  BaseObjects:79 - Getting page: http://shoestore-manheim.rhcloud.com/
+00:38:04.814 INFO  BaseObjects:98 - Clicking on element: By.linkText: Home
+00:38:05.044 INFO  JanuaryTests:54 - Successfully navigated to Home Page: http://shoestore-manheim.rhcloud.com/
+00:38:05.045 INFO  BaseObjects:98 - Clicking on element: By.linkText: January
+00:41:06.517 INFO  JanuaryTests:60 - Successfully navigated to January Page: http://shoestore-manheim.rhcloud.com/months/january
+00:41:06.517 INFO  BaseObjects:153 - Looking for: By.id: shoe_list
+00:41:06.562 INFO  BaseObjects:153 - Looking for: By.id: shoe_list
+00:41:06.610 INFO  BaseObjects:153 - Looking for: By.className: shoe_image
+00:41:06.661 INFO  BaseObjects:153 - Looking for: By.className: shoe_result
