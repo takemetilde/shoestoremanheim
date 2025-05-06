@@ -8,8 +8,8 @@ The framework is based on the page-object model with dependency handling by Mave
 
 There's logic to handle firefox in local, but the default is set to Chrome through a Config implementation.  The framework is integrated with SauceLabs for iterative testing. SauceLabs gets kicked off and is able to be monitored in the following account:
 
-  username: hongiaher
-  password: java123
+  username: ******
+  password: ******
 
 Using the following command:
 
